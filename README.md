@@ -1,3 +1,6 @@
+💀 This repository has been deprecated. We _think_ it was a tool intended to manage Drupal 7 scheduled releases with Acquia.  No longer used.
+
+
 release-hub
 ===========
 
